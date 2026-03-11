@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Luciana Oliveira
 
-<!--
-**lucianasfoliveira/lucianasfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Backend com foco em .NET e construção de APIs e sistemas corporativos.
 
-Here are some ideas to get you started:
+Tenho experiência no desenvolvimento de aplicações backend utilizando C#, ASP.NET Core e SQL Server, trabalhando com criação de CRUDs completos, implementação de regras de negócio e manutenção de sistemas corporativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- C#
+- ASP.NET Core
+- SQL Server
+- REST APIs
+- Git
+- Scrum
+
+## 📂 Projetos em destaque
+
+📌 **ProjetoGestao_RH**  
+Sistema de cadastro e busca de currículos por área de interesse para equipes de recrutamento.
+
+📌 **API-MoedasEstrangeiras**  
+API para geração de ordens de compra de moedas estrangeiras (USD e EUR).
+
+📌 **Pagamento**  
+Microserviço para processamento de pagamentos.
+
+## 🎯 Interesses
+
+- Desenvolvimento Backend
+- Arquitetura de APIs
+- Sistemas corporativos
+- Boas práticas de código
+
+## 📫 Contato
+
+LinkedIn:  
+www.linkedin.com/in/lucianaoliveira83/
