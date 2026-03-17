@@ -4,7 +4,7 @@
 
 Tenho experiência no desenvolvimento de aplicações backend utilizando C#, ASP.NET Core e SQL Server, trabalhando com criação de CRUDs completos, implementação de regras de negócio e manutenção de sistemas corporativos.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - C#
 - ASP.NET Core
@@ -13,25 +13,25 @@ Tenho experiência no desenvolvimento de aplicações backend utilizando C#, ASP
 - Git
 - Scrum
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 
-📌 **ProjetoGestao_RH**  
-Sistema de cadastro e busca de currículos por área de interesse para equipes de recrutamento.
+📌 **ClinicManager**  
+Sistema de gestão de pacientes para clínicas, desenvolvido em ASP.NET Core MVC com arquitetura em camadas, Dapper e SQL Server.
 
 📌 **API-MoedasEstrangeiras**  
-API para geração de ordens de compra de moedas estrangeiras (USD e EUR).
+API REST para geração de ordens de compra de moedas estrangeiras (USD e EUR).
 
-📌 **Pagamento**  
-Microserviço para processamento de pagamentos.
+📌 **ProjetoGestao_RH**  
+Sistema para cadastro e busca de currículos por área de interesse, voltado para equipes de recrutamento..
 
-## 🎯 Interesses
+## Interesses
 
 - Desenvolvimento Backend
 - Arquitetura de APIs
 - Sistemas corporativos
 - Boas práticas de código
 
-## 📫 Contato
+## Contato
 
 LinkedIn:  
 www.linkedin.com/in/lucianaoliveira83/
